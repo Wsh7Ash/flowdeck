@@ -1,0 +1,15 @@
+source,target,value
+income,housing,1800
+income,utilities,350
+income,groceries,650
+income,transport,300
+income,savings,900
+income,fun,400
+income,debt,500
+utilities,"internet & ""wifi""",90
+groceries,household,150
+fun,cinema & theater,120
+savings,emergency fund,500
+savings,index funds,400
+debt,student loan,350
+debt,credit card,150

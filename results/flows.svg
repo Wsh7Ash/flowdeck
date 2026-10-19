@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" width="960" height="640" role="img" aria-labelledby="fd-title fd-desc">
+<title id="fd-title">Site traffic flow</title>
+<desc id="fd-desc">Sankey diagram: 13 nodes, 17 flows, 6 layers.</desc>
+<rect x="0" y="0" width="960" height="640" fill="#ffffff"/>
+<g class="links" fill-opacity="0.35">
+<path d="M 42 221.09090909090912 C 122.4 221.09090909090912, 122.4 221.09090909090907, 202.8 221.09090909090907 L 202.8 428.79999999999995 C 122.4 428.79999999999995, 122.4 428.8, 42 428.8 Z" fill="#f28e2b"><title>organic-search → landing: 4200</title></path>
+<path d="M 220.8 151.85454545454544 C 480 151.85454545454544, 480 298.8, 739.2 298.8 L 739.2 476.83636363636367 C 480 476.83636363636367, 480 329.8909090909091, 220.8 329.8909090909091 Z" fill="#e15759"><title>landing → bounce: 3600</title></path>
+<path d="M 42 24.000000000000057 C 122.4 24.000000000000057, 122.4 48, 202.8 48 L 202.8 176.58181818181816 C 122.4 176.58181818181816, 122.4 152.58181818181822, 42 152.58181818181822 Z" fill="#b07aa1"><title>direct → landing: 2600</title></path>
+<path d="M 220.8 404.07272727272726 C 390.6 404.07272727272726, 390.6 273.01818181818186, 560.4 273.01818181818186 L 560.4 391.70909090909095 C 390.6 391.70909090909095, 390.6 522.7636363636364, 220.8 522.7636363636364 Z" fill="#e15759"><title>landing → pricing: 2400</title></path>
+<path d="M 220.8 48 C 301.20000000000005 48, 301.20000000000005 224.9818181818182, 381.6 224.9818181818182 L 381.6 328.83636363636367 C 301.20000000000005 328.83636363636367, 301.20000000000005 151.85454545454544, 220.8 151.85454545454544 Z" fill="#e15759"><title>landing → blog: 2100</title></path>
+<path d="M 42 440.8 C 122.4 440.8, 122.4 428.79999999999995, 202.8 428.79999999999995 L 202.8 517.8181818181818 C 122.4 517.8181818181818, 122.4 529.8181818181819, 42 529.8181818181819 Z" fill="#9c755f"><title>paid-search → landing: 1800</title></path>
+<path d="M 399.6 224.9818181818182 C 569.4000000000001 224.9818181818182, 569.4000000000001 175.16363636363639, 739.2 175.16363636363639 L 739.2 254.2909090909091 C 569.4000000000001 254.2909090909091, 569.4000000000001 304.1090909090909, 399.6 304.1090909090909 Z" fill="#f28e2b"><title>blog → bounce: 1600</title></path>
+<path d="M 220.8 329.8909090909091 C 301.20000000000005 329.8909090909091, 301.20000000000005 340.83636363636367, 381.6 340.83636363636367 L 381.6 415.01818181818186 C 301.20000000000005 415.01818181818186, 301.20000000000005 404.07272727272726, 220.8 404.07272727272726 Z" fill="#e15759"><title>landing → docs: 1500</title></path>
+<path d="M 578.4 248.2909090909091 C 658.8 248.2909090909091, 658.8 476.83636363636367, 739.2 476.83636363636367 L 739.2 551.0181818181818 C 658.8 551.0181818181818, 658.8 322.4727272727273, 578.4 322.4727272727273 Z" fill="#ff9da7"><title>pricing → bounce: 1500</title></path>
+<path d="M 42 541.8181818181819 C 122.4 541.8181818181819, 122.4 517.8181818181818, 202.8 517.8181818181818 L 202.8 591.9999999999999 C 122.4 591.9999999999999, 122.4 616, 42 616 Z" fill="#9c755f"><title>social → landing: 1500</title></path>
+<path d="M 757.2 88.9818181818182 C 837.6 88.9818181818182, 837.6 276.9090909090909, 918 276.9090909090909 L 918 331.30909090909086 C 837.6 331.30909090909086, 837.6 143.3818181818182, 757.2 143.3818181818182 Z" fill="#f28e2b"><title>signup → activated: 1100</title></path>
+<path d="M 399.6 340.83636363636367 C 569.4000000000001 340.83636363636367, 569.4000000000001 254.2909090909091, 739.2 254.2909090909091 L 739.2 298.8 C 569.4000000000001 298.8, 569.4000000000001 385.3454545454546, 399.6 385.3454545454546 Z" fill="#e15759"><title>docs → bounce: 900</title></path>
+<path d="M 42 164.58181818181822 C 122.4 164.58181818181822, 122.4 176.58181818181816, 202.8 176.58181818181816 L 202.8 221.09090909090907 C 122.4 221.09090909090907, 122.4 209.09090909090912, 42 209.09090909090912 Z" fill="#4e79a7"><title>newsletter → landing: 900</title></path>
+<path d="M 578.4 322.4727272727273 C 658.8 322.4727272727273, 658.8 118.65454545454547, 739.2 118.65454545454547 L 739.2 163.16363636363639 C 658.8 163.16363636363639, 658.8 366.9818181818182, 578.4 366.9818181818182 Z" fill="#ff9da7"><title>pricing → signup: 900</title></path>
+<path d="M 399.6 385.3454545454546 C 569.4000000000001 385.3454545454546, 569.4000000000001 88.9818181818182, 739.2 88.9818181818182 L 739.2 118.65454545454547 C 569.4000000000001 118.65454545454547, 569.4000000000001 415.01818181818186, 399.6 415.01818181818186 Z" fill="#e15759"><title>docs → signup: 600</title></path>
+<path d="M 399.6 304.1090909090909 C 480 304.1090909090909, 480 248.2909090909091, 560.4 248.2909090909091 L 560.4 273.01818181818186 C 480 273.01818181818186, 480 328.83636363636367, 399.6 328.83636363636367 Z" fill="#f28e2b"><title>blog → pricing: 500</title></path>
+<path d="M 757.2 143.3818181818182 C 837.6 143.3818181818182, 837.6 343.30909090909086, 918 343.30909090909086 L 918 363.090909090909 C 837.6 363.090909090909, 837.6 163.16363636363639, 757.2 163.16363636363639 Z" fill="#f28e2b"><title>signup → dropoff: 400</title></path>
+</g>
+<g class="nodes">
+<rect x="24" y="24.00" width="18" height="128.58" rx="3" fill="#b07aa1"><title>direct: 2600</title></rect>
+<text x="48" y="88.29" dy="0.35em" text-anchor="start" font-family="system-ui, sans-serif" font-size="12" fill="#222">direct</text>
+<rect x="24" y="164.58" width="18" height="44.51" rx="3" fill="#4e79a7"><title>newsletter: 900</title></rect>
+<text x="48" y="186.84" dy="0.35em" text-anchor="start" font-family="system-ui, sans-serif" font-size="12" fill="#222">newsletter</text>
+<rect x="24" y="221.09" width="18" height="207.71" rx="3" fill="#f28e2b"><title>organic-search: 4200</title></rect>
+<text x="48" y="324.95" dy="0.35em" text-anchor="start" font-family="system-ui, sans-serif" font-size="12" fill="#222">organic-search</text>
+<rect x="24" y="440.80" width="18" height="89.02" rx="3" fill="#9c755f"><title>paid-search: 1800</title></rect>
+<text x="48" y="485.31" dy="0.35em" text-anchor="start" font-family="system-ui, sans-serif" font-size="12" fill="#222">paid-search</text>
+<rect x="24" y="541.82" width="18" height="74.18" rx="3" fill="#9c755f"><title>social: 1500</title></rect>
+<text x="48" y="578.91" dy="0.35em" text-anchor="start" font-family="system-ui, sans-serif" font-size="12" fill="#222">social</text>
+<rect x="202.80" y="48" width="18" height="544" rx="3" fill="#e15759"><title>landing: 11000</title></rect>
+<text x="226.80" y="320" dy="0.35em" text-anchor="start" font-family="system-ui, sans-serif" font-size="12" fill="#222">landing</text>
+<rect x="381.60" y="224.98" width="18" height="103.85" rx="3" fill="#f28e2b"><title>blog: 2100</title></rect>
+<text x="405.60" y="276.91" dy="0.35em" text-anchor="start" font-family="system-ui, sans-serif" font-size="12" fill="#222">blog</text>
+<rect x="381.60" y="340.84" width="18" height="74.18" rx="3" fill="#e15759"><title>docs: 1500</title></rect>
+<text x="405.60" y="377.93" dy="0.35em" text-anchor="start" font-family="system-ui, sans-serif" font-size="12" fill="#222">docs</text>
+<rect x="560.40" y="248.29" width="18" height="143.42" rx="3" fill="#ff9da7"><title>pricing: 2900</title></rect>
+<text x="584.40" y="320" dy="0.35em" text-anchor="start" font-family="system-ui, sans-serif" font-size="12" fill="#222">pricing</text>
+<rect x="739.20" y="88.98" width="18" height="74.18" rx="3" fill="#f28e2b"><title>signup: 1500</title></rect>
+<text x="763.20" y="126.07" dy="0.35em" text-anchor="start" font-family="system-ui, sans-serif" font-size="12" fill="#222">signup</text>
+<rect x="739.20" y="175.16" width="18" height="375.85" rx="3" fill="#76b7b2"><title>bounce: 7600</title></rect>
+<text x="763.20" y="363.09" dy="0.35em" text-anchor="start" font-family="system-ui, sans-serif" font-size="12" fill="#222">bounce</text>
+<rect x="918" y="276.91" width="18" height="54.40" rx="3" fill="#9c755f"><title>activated: 1100</title></rect>
+<text x="912" y="304.11" dy="0.35em" text-anchor="end" font-family="system-ui, sans-serif" font-size="12" fill="#222">activated</text>
+<rect x="918" y="343.31" width="18" height="19.78" rx="3" fill="#edc948"><title>dropoff: 400</title></rect>
+<text x="912" y="353.20" dy="0.35em" text-anchor="end" font-family="system-ui, sans-serif" font-size="12" fill="#222">dropoff</text>
+</g>
+</svg>

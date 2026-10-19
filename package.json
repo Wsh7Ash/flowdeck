@@ -1,0 +1,30 @@
+{
+  "name": "flowdeck",
+  "version": "0.1.0",
+  "description": "Turn a flows CSV into a laid-out Sankey diagram (SVG + HTML gallery), zero dependencies",
+  "type": "module",
+  "license": "MIT",
+  "bin": {
+    "flowdeck": "src/cli.js"
+  },
+  "scripts": {
+    "test": "node --test",
+    "demo": "node examples/demo.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "sankey",
+    "svg",
+    "visualization",
+    "csv",
+    "flow",
+    "cli"
+  ],
+  "files": [
+    "src/",
+    "README.md",
+    "LICENSE"
+  ]
+}

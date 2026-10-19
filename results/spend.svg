@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img" aria-labelledby="fd-title fd-desc">
+<title id="fd-title">Flow: spend.csv</title>
+<desc id="fd-desc">Sankey diagram: 15 nodes, 14 flows, 3 layers.</desc>
+<rect x="0" y="0" width="800" height="500" fill="#ffffff"/>
+<g class="links" fill-opacity="0.35">
+<path d="M 42 180.20408163265304 C 216.5 180.20408163265304, 216.5 301.1428571428571, 391 301.1428571428571 L 391 440.73469387755097 C 216.5 440.73469387755097, 216.5 319.7959183673469, 42 319.7959183673469 Z" fill="#7a6bb5"><title>income → housing: 1800</title></path>
+<path d="M 42 319.7959183673469 C 216.5 319.7959183673469, 216.5 24, 391 24 L 391 93.79591836734694 C 216.5 93.79591836734694, 216.5 389.59183673469386, 42 389.59183673469386 Z" fill="#7a6bb5"><title>income → savings: 900</title></path>
+<path d="M 42 129.79591836734693 C 216.5 129.79591836734693, 216.5 105.79591836734694, 391 105.79591836734694 L 391 156.20408163265307 C 216.5 156.20408163265307, 216.5 180.20408163265304, 42 180.20408163265304 Z" fill="#7a6bb5"><title>income → groceries: 650</title></path>
+<path d="M 42 60 C 216.5 60, 216.5 168.20408163265307, 391 168.20408163265307 L 391 206.9795918367347 C 216.5 206.9795918367347, 216.5 98.77551020408163, 42 98.77551020408163 Z" fill="#7a6bb5"><title>income → debt: 500</title></path>
+<path d="M 409 24 C 583.5 24, 583.5 145.75510204081633, 758 145.75510204081633 L 758 184.53061224489795 C 583.5 184.53061224489795, 583.5 62.775510204081634, 409 62.775510204081634 Z" fill="#7a6bb5"><title>savings → emergency fund: 500</title></path>
+<path d="M 42 98.77551020408163 C 216.5 98.77551020408163, 216.5 218.9795918367347, 391 218.9795918367347 L 391 250 C 216.5 250, 216.5 129.79591836734693, 42 129.79591836734693 Z" fill="#7a6bb5"><title>income → fun: 400</title></path>
+<path d="M 409 62.775510204081634 C 583.5 62.775510204081634, 583.5 196.53061224489795, 758 196.53061224489795 L 758 227.55102040816325 C 583.5 227.55102040816325, 583.5 93.79591836734694, 409 93.79591836734694 Z" fill="#7a6bb5"><title>savings → index funds: 400</title></path>
+<path d="M 409 179.83673469387756 C 583.5 179.83673469387756, 583.5 286.8163265306122, 758 286.8163265306122 L 758 313.95918367346934 C 583.5 313.95918367346934, 583.5 206.9795918367347, 409 206.9795918367347 Z" fill="#3f6fa3"><title>debt → student loan: 350</title></path>
+<path d="M 42 412.85714285714283 C 216.5 412.85714285714283, 216.5 262, 391 262 L 391 289.14285714285717 C 216.5 289.14285714285717, 216.5 440, 42 440 Z" fill="#7a6bb5"><title>income → utilities: 350</title></path>
+<path d="M 42 389.59183673469386 C 216.5 389.59183673469386, 216.5 452.73469387755097, 391 452.73469387755097 L 391 475.99999999999994 C 216.5 475.99999999999994, 216.5 412.85714285714283, 42 412.85714285714283 Z" fill="#7a6bb5"><title>income → transport: 300</title></path>
+<path d="M 409 168.20408163265307 C 583.5 168.20408163265307, 583.5 263.1836734693877, 758 263.1836734693877 L 758 274.81632653061223 C 583.5 274.81632653061223, 583.5 179.83673469387756, 409 179.83673469387756 Z" fill="#3f6fa3"><title>debt → credit card: 150</title></path>
+<path d="M 409 105.79591836734694 C 583.5 105.79591836734694, 583.5 239.55102040816325, 758 239.55102040816325 L 758 251.18367346938774 C 583.5 251.18367346938774, 583.5 117.42857142857143, 409 117.42857142857143 Z" fill="#3f6fa3"><title>groceries → household: 150</title></path>
+<path d="M 409 218.9795918367347 C 583.5 218.9795918367347, 583.5 325.9591836734693, 758 325.9591836734693 L 758 335.26530612244886 C 583.5 335.26530612244886, 583.5 228.28571428571428, 409 228.28571428571428 Z" fill="#6a9ec9"><title>fun → cinema &amp; theater: 120</title></path>
+<path d="M 409 262 C 583.5 262, 583.5 347.26530612244886, 758 347.26530612244886 L 758 354.24489795918356 C 583.5 354.24489795918356, 583.5 268.9795918367347, 409 268.9795918367347 Z" fill="#8873c7"><title>utilities → internet &amp; &quot;wifi&quot;: 90</title></path>
+</g>
+<g class="nodes">
+<rect x="24" y="60" width="18" height="380" rx="3" fill="#7a6bb5"><title>income: 4900</title></rect>
+<text x="48" y="250" dy="0.35em" text-anchor="start" font-family="system-ui, sans-serif" font-size="12" fill="#222">income</text>
+<rect x="391" y="24" width="18" height="69.80" rx="3" fill="#7a6bb5"><title>savings: 900</title></rect>
+<text x="415" y="58.90" dy="0.35em" text-anchor="start" font-family="system-ui, sans-serif" font-size="12" fill="#222">savings</text>
+<rect x="391" y="105.80" width="18" height="50.41" rx="3" fill="#3f6fa3"><title>groceries: 650</title></rect>
+<text x="415" y="131" dy="0.35em" text-anchor="start" font-family="system-ui, sans-serif" font-size="12" fill="#222">groceries</text>
+<rect x="391" y="168.20" width="18" height="38.78" rx="3" fill="#3f6fa3"><title>debt: 500</title></rect>
+<text x="415" y="187.59" dy="0.35em" text-anchor="start" font-family="system-ui, sans-serif" font-size="12" fill="#222">debt</text>
+<rect x="391" y="218.98" width="18" height="31.02" rx="3" fill="#6a9ec9"><title>fun: 400</title></rect>
+<text x="415" y="234.49" dy="0.35em" text-anchor="start" font-family="system-ui, sans-serif" font-size="12" fill="#222">fun</text>
+<rect x="391" y="262" width="18" height="27.14" rx="3" fill="#8873c7"><title>utilities: 350</title></rect>
+<text x="415" y="275.57" dy="0.35em" text-anchor="start" font-family="system-ui, sans-serif" font-size="12" fill="#222">utilities</text>
+<rect x="391" y="301.14" width="18" height="139.59" rx="3" fill="#57a88a"><title>housing: 1800</title></rect>
+<text x="415" y="370.94" dy="0.35em" text-anchor="start" font-family="system-ui, sans-serif" font-size="12" fill="#222">housing</text>
+<rect x="391" y="452.73" width="18" height="23.27" rx="3" fill="#3f6fa3"><title>transport: 300</title></rect>
+<text x="415" y="464.37" dy="0.35em" text-anchor="start" font-family="system-ui, sans-serif" font-size="12" fill="#222">transport</text>
+<rect x="758" y="145.76" width="18" height="38.78" rx="3" fill="#4f9db9"><title>emergency fund: 500</title></rect>
+<text x="752" y="165.14" dy="0.35em" text-anchor="end" font-family="system-ui, sans-serif" font-size="12" fill="#222">emergency fund</text>
+<rect x="758" y="196.53" width="18" height="31.02" rx="3" fill="#3f8f7a"><title>index funds: 400</title></rect>
+<text x="752" y="212.04" dy="0.35em" text-anchor="end" font-family="system-ui, sans-serif" font-size="12" fill="#222">index funds</text>
+<rect x="758" y="239.55" width="18" height="11.63" rx="3" fill="#3f6fa3"><title>household: 150</title></rect>
+<text x="752" y="245.37" dy="0.35em" text-anchor="end" font-family="system-ui, sans-serif" font-size="12" fill="#222">household</text>
+<rect x="758" y="263.18" width="18" height="11.63" rx="3" fill="#3f6fa3"><title>credit card: 150</title></rect>
+<text x="752" y="269.00" dy="0.35em" text-anchor="end" font-family="system-ui, sans-serif" font-size="12" fill="#222">credit card</text>
+<rect x="758" y="286.82" width="18" height="27.14" rx="3" fill="#6a9ec9"><title>student loan: 350</title></rect>
+<text x="752" y="300.39" dy="0.35em" text-anchor="end" font-family="system-ui, sans-serif" font-size="12" fill="#222">student loan</text>
+<rect x="758" y="325.96" width="18" height="9.31" rx="3" fill="#8873c7"><title>cinema &amp; theater: 120</title></rect>
+<text x="752" y="330.61" dy="0.35em" text-anchor="end" font-family="system-ui, sans-serif" font-size="12" fill="#222">cinema &amp; theater</text>
+<rect x="758" y="347.27" width="18" height="6.98" rx="3" fill="#3f8f7a"><title>internet &amp; &quot;wifi&quot;: 90</title></rect>
+<text x="752" y="350.76" dy="0.35em" text-anchor="end" font-family="system-ui, sans-serif" font-size="12" fill="#222">internet &amp; &quot;wifi&quot;</text>
+</g>
+</svg>

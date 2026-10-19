@@ -1,0 +1,72 @@
+{
+  "tool": "flowdeck",
+  "version": "0.1.0",
+  "source": "examples/flows.csv",
+  "title": "Site traffic flow",
+  "palette": "default",
+  "stats": {
+    "nodeCount": 13,
+    "linkCount": 17,
+    "layerCount": 6,
+    "totalValue": 28100,
+    "perLayer": [
+      {
+        "layer": 0,
+        "nodes": 5,
+        "value": 11000
+      },
+      {
+        "layer": 1,
+        "nodes": 1,
+        "value": 11000
+      },
+      {
+        "layer": 2,
+        "nodes": 2,
+        "value": 3600
+      },
+      {
+        "layer": 3,
+        "nodes": 1,
+        "value": 2900
+      },
+      {
+        "layer": 4,
+        "nodes": 2,
+        "value": 9100
+      },
+      {
+        "layer": 5,
+        "nodes": 2,
+        "value": 1500
+      }
+    ]
+  },
+  "topLinks": [
+    {
+      "source": "organic-search",
+      "target": "landing",
+      "value": 4200
+    },
+    {
+      "source": "landing",
+      "target": "bounce",
+      "value": 3600
+    },
+    {
+      "source": "direct",
+      "target": "landing",
+      "value": 2600
+    },
+    {
+      "source": "landing",
+      "target": "pricing",
+      "value": 2400
+    },
+    {
+      "source": "landing",
+      "target": "blog",
+      "value": 2100
+    }
+  ]
+}

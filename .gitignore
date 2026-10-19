@@ -1,0 +1,7 @@
+# dependencies (there are none, but keep npm honest)
+node_modules/
+package-lock.json
+
+# build/output noise
+*.log
+.DS_Store
